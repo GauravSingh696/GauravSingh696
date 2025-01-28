@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <p align="left"> <a href="https://twitter.com/gauravsingh_69" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsingh_69?logo=twitter&style=for-the-badge" alt="gauravsingh_69" /></a> </p>
 
+<div align="center">
+    <h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10&size=30&pause=1000&center=true&random=false&width=439&lines=Welcome+to+My+GitHub+Profile;Welcome+I+am+Software+Engineer;Turning+idea+into+code.;Pushing+Boundaries+and+Solve+Problem.;I+can+code+Fluent+in+Python+and+Cpp;Let's+Connect+and+Build+Career.)](https://git.io/typing-svg)
+
+</h1>
+</div>
+
+<hr/>
+
 - 🌱 I’m currently learning **react js**
 
 - 💬 Ask me about **As an aspiring engineering candidate, I possess a strong academic foundation in Programming, Problem-Solving Ability, Mathematics, and Computer Science.**
