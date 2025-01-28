@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<p align="left"> <a href="https://twitter.com/gauravsingh_69" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsingh_69?logo=twitter&style=for-the-badge" alt="gauravsingh_69" /></a> </p>
 
 <div align="center">
     <h1>
@@ -10,6 +9,8 @@
 </div>
 
 <hr/>
+
+<p align="left"> <a href="https://twitter.com/gauravsingh_69" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsingh_69?logo=twitter&style=for-the-badge" alt="gauravsingh_69" /></a> </p>
 
 - 🌱 I’m currently learning **react js**
 
