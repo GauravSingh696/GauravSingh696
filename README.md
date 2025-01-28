@@ -8,9 +8,10 @@
 </h1>
 </div>
 
-<hr/>
-
 <p align="left"> <a href="https://twitter.com/gauravsingh_69" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsingh_69?logo=twitter&style=for-the-badge" alt="gauravsingh_69" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 - 🌱 I’m currently learning **react js**
 
