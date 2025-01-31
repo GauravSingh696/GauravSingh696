@@ -6,14 +6,16 @@
 </h1>
 </div>
 
-
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">As an aspiring engineering candidate, I possess a strong academic foundation in Programming, Problem-Solving Ability, Mathematics, and Computer Science.</h3>
 
+<br>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <a href="https://twitter.com/gauravsingh_69" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsingh_69?logo=twitter&style=for-the-badge" alt="gauravsingh_69" /></a> </p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 
 - 🔭 I’m currently working on **copy checking project**
@@ -21,6 +23,8 @@
 - 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **react , frontend , DSA , CP , java , C and C++ ect**
+
+- 📄 Know about my experiences [gauravsingh00.tiiny.site](gauravsingh00.tiiny.site)
 
 
 <br>
