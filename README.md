@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **react , frontend , DSA , CP , java , C and C++ ect**
 
-- 📄 Know about my experiences [Resume](https://gaurav00resume.tiiny.site)
+- 📄 Know about my experiences [Porfolio](https://gauravsingh79.netlify.app/)
 
 
 <br>
